@@ -8,3 +8,5 @@ $('.select-js').select2({
             cursorfixedheight: 70
         });
     });
+
+$(".input-phone-js").inputmask("+7(999)999-99-99");
